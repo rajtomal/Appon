@@ -1,0 +1,221 @@
+
+
+@media (max-width: 575.98px) { 
+
+    #menu_part img{
+        height: 45px;
+    }
+    #menu_part ul{
+        background: #000000;
+        transition: all linear 0.4s;
+        padding-bottom: 10px;
+    }
+    #menu_part ul li a{
+        display: inline-block !important;
+    }
+    #menu_part .navbar-toggler{
+        color: #ffffff;
+    }
+    #menu_part .navbar-toggler i{
+        font-size: 25px;
+        color: #fff;
+    }
+    #menu_part .free-button {
+        width: 130px;
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+
+    /* ------ menu part end ------- */
+
+
+    #banner-part .banner-slider .banner-text {
+        text-align: start;
+    }
+    #banner-part .banner-slider {
+        padding-top: 150px;
+    }
+    #banner-part .banner-slider .banner-text h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-slider .banner-text h3 {
+        font-size: 20px;
+        padding: 5px 0;
+    }
+    #banner-part .banner-slider .banner-text h3::before {
+        left: 0;
+    }
+    #banner-part .banner-slider .banner-text p {
+        font-size: 13px;
+        width: 295px;
+    }
+
+    #banner-part .slick-dots {
+        top: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0;
+    }
+    #banner-part .slick-dots li{
+        display: inline-block;
+        margin-right: 5px;
+    }
+    #banner-part .banner-slider .banner-text a {
+        font-size: 13px;
+        padding: 10px 15px 10px 32px;
+        margin-left: 0px;
+        margin-right: 5px;
+    }
+    #banner-part .banner-slider .banner-text a span {
+        font-size: 15px;
+    }
+    #banner-part .banner-slider .banner-text a i {
+        font-size: 20px;
+        left: 5px;
+    }
+    #banner-part .banner-slider .banner-text a .apple-icon {
+        font-size: 25px;
+        left: 5px;
+    }
+
+    /* ------ banner part end ------- */
+
+
+    #about_part {
+        padding: 50px 0;
+    }
+    #about_part .about-text h1 {
+        margin-top: 0px;
+    }
+    #features_part .header-text-features h1::before {
+        bottom: -65px;
+        left: 90px;
+    }
+    #about_part .about-img{
+        margin-top: 35px;
+    }
+    #about_part .about-text {
+        padding: 0 0px;
+    }
+    /* ------ about part end ------- */
+
+
+    #features_part .img-part img {
+        display: none;
+    }
+    #features_part .text-part {
+        text-align: center;
+    }
+    #features_part .text-part h2 {
+        margin-top: 55px;
+    }
+    #features_part .sub_button {
+        font-size: 15px;
+        padding: 20px 43px;
+    }
+    #features_part .sub_button i {
+        font-size: 25px;
+        left: 5px;
+    }
+    #features_part .sub_button span {
+        font-size: 13px;
+    }
+    /* ------ features_part end ------- */
+    #screen_part {
+        padding: 30px 0;
+        padding-bottom: 0px;
+    }
+    #screen_part h1 {
+        margin-top: 35px;
+    }
+    #screen_part .screen-slider img {
+        width: 50%;
+        margin: 0 auto;
+    }
+    #screen_part .all-screen-slider .slick-dots {
+        left: 45%;
+    }
+    /* ------ screen_part end ------- */
+
+    #video_part {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    /* ------ video_part end ------- */
+
+    #plan_part .item-plan-1 {
+        margin-bottom: 50px;
+    }
+
+    #plan_part {
+        padding-bottom: 65px;
+    }
+
+    #team_part {
+        height: 1545px;
+    }
+    /* ------ team_part end ------- */
+
+    #team_part .team-member {
+        margin-bottom: 200px;
+    }
+    #team_part .team-member .team-overlay p {
+        padding: 0 50px;
+    }
+
+    #team_part .team-member .member-img {
+        opacity: 1;
+    }
+    #team_part .team-member .team-overlay {
+        opacity: 1;
+        bottom: -110px;
+    }
+    #team_part .team-member {
+        margin-top: -70px;
+        margin-bottom: 225px;
+    }
+    #team_part .team-member{
+        margin-top: -70px;
+    }
+    #team_part .team-member:hover .team-overlay {
+        opacity: 1; 
+        bottom: -110px;
+    }
+    #team_part .team-member:hover {
+        margin-top: -70px;
+    }
+    #team_part .team-member .team-overlay p {
+        padding: 0px;
+    }
+    #touch_part .input-name {
+        margin-bottom: 10px;
+    }
+    #team_part .row{
+        margin-top: 100px;
+    }
+    #feedback_part .feedback-img .all-img-slider .img-slider .img-slider1 {
+        height: 80px;
+        width: 80px;
+    }
+
+
+    #feedback_part .feedback-img .feedback-text-slider .text-slider .text-slider-1 {
+        padding: 23px 5px;
+    }
+
+    /* ------ team_part end ------- */
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
